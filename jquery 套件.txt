@@ -1,3 +1,0 @@
-https://github.com/imakewebthings/jquery-waypoints/
-可以讓選單變成fix效果 跟著滾輪高度
-
